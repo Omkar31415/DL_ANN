@@ -1,3 +1,6 @@
 # DL_ANN
 
-Live Deployed app: https://dl-ann-prediction.streamlit.app/
+Customer Churn Prediction app: https://dl-ann-churnprediction.streamlit.app/
+
+Customer Salary Prediction app: https://dl-salaryprediction.streamlit.app/
+
